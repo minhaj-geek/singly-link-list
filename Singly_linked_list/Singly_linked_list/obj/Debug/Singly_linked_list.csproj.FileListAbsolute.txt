@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Singly_linked_list\Singly_linked_list\bin\Debug\Singly_linked_list.exe.config
+C:\Users\user\Desktop\Singly_linked_list\Singly_linked_list\bin\Debug\Singly_linked_list.exe
+C:\Users\user\Desktop\Singly_linked_list\Singly_linked_list\bin\Debug\Singly_linked_list.pdb
+C:\Users\user\Desktop\Singly_linked_list\Singly_linked_list\obj\Debug\Singly_linked_list.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Singly_linked_list\Singly_linked_list\obj\Debug\Singly_linked_list.exe
+C:\Users\user\Desktop\Singly_linked_list\Singly_linked_list\obj\Debug\Singly_linked_list.pdb
